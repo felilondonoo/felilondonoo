@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Felipe Londoño
 
-🎓 Systems Engineer graduate from **Pontificia Universidad Javeriana (Bogotá, Colombia)**  
+🎓 Systems Engineer student from **Pontificia Universidad Javeriana (Bogotá, Colombia)**  
 💻 Backend / Full Stack Developer  
 🚀 Interested in building secure, scalable backend systems and AI-driven applications
 
