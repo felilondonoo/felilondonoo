@@ -79,19 +79,6 @@ Backend service for payment processing:
 
 ---
 
-### 🧠 DiagnoAI (Thesis Project)
-🔗 https://diagnoai.onrender.com/
-
-AI-powered software for diagnostic imaging support:
-- Artificial Intelligence system for radiography image analysis
-- Priority-based classification of daily radiographs
-- Suggested diagnostic output to reduce human error
-- Backend architecture with REST APIs
-- Deployed and accessible as a web application
-
-This project focuses on **supporting medical professionals** and **reducing misdiagnosis risks** through intelligent prioritization and AI-assisted analysis.
-
----
 
 ## 🎯 What I'm Looking For
 
